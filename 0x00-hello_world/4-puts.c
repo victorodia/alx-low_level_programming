@@ -1,4 +1,3 @@
-#!/bin/bash
 #include <stdio.h>
 /*
  * This program returns 0 always
