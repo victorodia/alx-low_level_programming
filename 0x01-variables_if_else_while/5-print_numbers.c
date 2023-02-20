@@ -7,13 +7,13 @@
 
 int main(void)
 {
-	int a = 1;
+	char a = '0';
 
-	while (a <= 9)
+	while (a <= '9')
 	{
-		printf('a');
+		putchar('a');
 		a++;
 	}
-	printf('\n');
+	putchar('\n');
 	return (0);
 }
