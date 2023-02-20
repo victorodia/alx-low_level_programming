@@ -1,21 +1,21 @@
 #include <stdio.h>
-
 /**
- * Main - This is the entry point
+ * main - This is the entry point
  *
- * Returns always (success)
+ *
+ * Return: always (success)
  */
 
 int main(void)
 {
 	char a = 'a';
+
 	for (a = 'a'; a <= 'z'; a++)
 	{
 		putchar(a);
 	}
-	
 	a = 'A';
-	for (a= 'A'; a <= 'Z'; a++)
+	for (a = 'A'; a <= 'Z'; a++)
 	{
 		putchar(a);
 	}
