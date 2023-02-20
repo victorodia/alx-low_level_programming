@@ -2,7 +2,7 @@
 /**
  * main - entry point for the code
  * Description -  Prints lower cases alphabets without q and e
- * return: 0
+ * Return: 0
  */
 
 int main(void)
